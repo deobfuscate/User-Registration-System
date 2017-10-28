@@ -14,4 +14,4 @@ A basic user registration system.
 * Add a control panel to manage users
 
 ## Note
-This project is only a tech demo of sorts, as such the level of security is very low. Passwords are only stored under the MD5 algorithm, which is unsecure. Use at your own risk.
+  This project is only a tech demo of sorts, as such the level of security is very low. Passwords are only stored under the MD5 algorithm, which is unsecure. Use at your own risk.
